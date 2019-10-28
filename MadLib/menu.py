@@ -52,14 +52,19 @@ Can you help me? \n").lower()
 def load_story(story):
     if story == '1' or story == 'Lord of the... Part 1':
         print ("You have chosen: Lord of the... Part 1")
+        st.Lord_of_the_Part_1()
     elif story == '2' or story == 'Lord of the... Part 2':
         print ("You have chosen: Lord of the... Part 2")
+        st.Lord_of_the_Part_2()
     elif story == '3' or story == 'Lord of the... Part 3':
         print ("You have chosen: Lord of the... Part 3")
+        st.Lord_of_the_Part_3()
     elif story == '4' or story == 'Romeo and Juliet':
         print ("You have chosen: Romeo and Juliet")
+        st.Romeo_and_Juliet()
     elif story == '5' or story == 'Dragons':
-        print ("You have chosen: Dragons")     
+        print ("You have chosen: Dragons")  
+        st.Dragons()   
     #if the input is not understood, ask again
     else:
         print ("I'm sorry, I do not understand")
