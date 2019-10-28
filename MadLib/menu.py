@@ -13,6 +13,9 @@ the stories.py file then ask the user
 for input
 '''
 
+#import the stories file to load up selected story
+import stories as st
+
 #this function asks the user if they want 
 #to run the app and play with some madlibs
 #if yes, ask which story then load it
@@ -48,14 +51,16 @@ Can you help me? \n").lower()
 #sored in stories.py
 def load_story(story):
     if story == '1' or story == 'Lord of the... Part 1':
-        print ("Fellowship")
+        print ("You have chosen: Lord of the... Part 1")
     elif story == '2' or story == 'Lord of the... Part 2':
-        print ("Two Towers")
+        print ("You have chosen: Lord of the... Part 2")
     elif story == '3' or story == 'Lord of the... Part 3':
-        print ("Return")
+        print ("You have chosen: Lord of the... Part 3")
     elif story == '4' or story == 'Romeo and Juliet':
-        print ("Tibelt")
+        print ("You have chosen: Romeo and Juliet")
     elif story == '5' or story == 'Dragons':
-        print ("Fellowship")
+        print ("You have chosen: Dragons")     
+    #if the input is not understood, ask again
     else:
-        print ("ERR")
+        print ("I'm sorry, I do not understand")
+        ask_for_help()
