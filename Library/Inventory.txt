@@ -1,0 +1,50 @@
+Harry Potter and the Sorcerer's Stone,J. K. Rowling,3
+Harry Potter and the Chamber of Secrets,J. K. Rowling,5
+Harry Potter and the Prisoner of Azkaban,J. K. Rowling,8
+Harry Potter and the Half-Blood Prince,J. K. Rowling,2
+Harry Potter and the Order of the Phoenix,J. K. Rowling,2
+Harry Potter and the Goblet of Fire,J. K. Rowling,5
+Harry Potter and the Deathly Hallows,J. K. Rowling,5
+The Hobbit,J. R. R. Tolkien,10
+1984,George Orwell,5
+Pride and Prejudice,Jane Austen,2
+To Kill a Mockingbird,Harper Lee,1
+The Da Vinci Code,Dan Brown,5
+The Catcher in the Rye,J. D. Salinger,6
+The Great Gatsby,F. Scott Fitzgerald,8
+Twilight,Stephenie Meyer,7
+The Hunger Games,Suzanne Collins,3
+Jane Eyre,Charlotte Brontë,3
+Animal Farm,George Orwell,9
+The Kite Runner,Khaled Hosseini,8
+Brave New World,Aldous Huxley,3
+The Lord of the Rings,J. R. R. Tolkien,15
+The Fellowship of the Ring,J. R. R. Tolkien,13
+Fahrenheit 451,Ray Bradbury,5
+Wuthering Heights,Emily Brontë,6
+New Moon,Stephenie Meyer,3
+Angels & Demons,Dan Brown,5
+The Odyssey,Homer,2
+Lord of the Flies,William Golding,6
+The Curious Incident of the Dog in the Night-Time,Mark Haddon,2
+Life of Pi,Yann Martel,4
+The Two Towers,J. R. R. Tolkien,10
+Catching Fire,Suzanne Collins,3
+One Hundred Years of Solitude,Gabriel Garcia Marquez,2
+Slaughterhouse-Five,Kurt Vonnegut,1
+Eclipse,Stephenie Meyer,4
+The Girl with the Dragon Tattoo,Stieg Larsson,9
+The Return of The King,J. R. R. Tolkien,2
+The Time Traveler's Wife,Audrey Niffenegger,3
+Crime and Punishment,Fyodor Dostoevsky,1
+The Book Thief,Markus Zusak,2
+Ender's Game,Orson Scott Card,3
+Breaking Dawn,Stephenie Meyer,5
+The Adventures of Huckleberry Finn,Mark Twain,3
+Catch-22,Joseph Heller,1
+The Lion, the Witch and the Wardrobe,C. S. Lewis,3
+Mockingjay,Suzanne Collins,8
+The Little Prince,Antoine de Saint-Exupéry,6
+A Game of Thrones,George R. R. Martin,1
+Memoirs of a Geisha,Arthur Golden,3
+The Lovely Bones,Alice Sebold,5
